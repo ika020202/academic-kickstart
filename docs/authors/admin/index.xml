@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kairi Miura | MKairi Portfolio Site</title>
-    <link>https://ika020202.github.io/authors/admin/</link>
-      <atom:link href="https://ika020202.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ika020202.github.io/academic-kickstart/authors/admin/</link>
+      <atom:link href="https://ika020202.github.io/academic-kickstart/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Kairi Miura</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language>
     <image>
-      <url>https://ika020202.github.io/authors/admin/avatar_hu456ecc943765411ccc87f3cafcb585e8_299786_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ika020202.github.io/academic-kickstart/authors/admin/avatar_hu456ecc943765411ccc87f3cafcb585e8_299786_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Kairi Miura</title>
-      <link>https://ika020202.github.io/authors/admin/</link>
+      <link>https://ika020202.github.io/academic-kickstart/authors/admin/</link>
     </image>
     
   </channel>

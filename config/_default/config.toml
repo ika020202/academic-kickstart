@@ -10,7 +10,7 @@ title = "MKairi Portfolio Site"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://ika020202.github.io/"
+baseurl = "https://ika020202.github.io/academic-kickstart/"
 publishDir = "docs"
 
 # Enter a copyright notice to display in the site footer.

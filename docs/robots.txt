@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://ika020202.github.io/sitemap.xml
+Sitemap: https://ika020202.github.io/academic-kickstart/sitemap.xml
