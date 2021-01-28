@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ika020202.github.io/academic-kickstart/tag/android/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ika020202.github.io/academic-kickstart/tag/flutter/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ika020202.github.io/academic-kickstart/tag/ios/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ika020202.github.io/academic-kickstart/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ika020202.github.io/academic-kickstart/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ika020202.github.io/academic-kickstart/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ika020202.github.io/academic-kickstart/project/%E3%81%BB%E3%82%93%E3%81%82%E3%82%8B%E5%92%8C%E6%AD%8C%E5%B1%B1/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ika020202.github.io/academic-kickstart/project/%E6%A0%84%E9%A4%8A%E7%AE%A1%E7%90%86%E3%82%A2%E3%83%95%E3%83%AA/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ika020202.github.io/academic-kickstart/authors/</loc>
   </url>
   
@@ -15,15 +55,7 @@
   </url>
   
   <url>
-    <loc>https://ika020202.github.io/academic-kickstart/</loc>
-  </url>
-  
-  <url>
     <loc>https://ika020202.github.io/academic-kickstart/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ika020202.github.io/academic-kickstart/tags/</loc>
   </url>
   
 </urlset>

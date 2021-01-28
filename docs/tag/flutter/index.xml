@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flutter | MKairi Portfolio Site</title>
+    <link>https://ika020202.github.io/academic-kickstart/tag/flutter/</link>
+      <atom:link href="https://ika020202.github.io/academic-kickstart/tag/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flutter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ika020202.github.io/academic-kickstart/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Flutter</title>
+      <link>https://ika020202.github.io/academic-kickstart/tag/flutter/</link>
+    </image>
+    
+    <item>
+      <title>ほんある？和歌山</title>
+      <link>https://ika020202.github.io/academic-kickstart/project/%E3%81%BB%E3%82%93%E3%81%82%E3%82%8B%E5%92%8C%E6%AD%8C%E5%B1%B1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ika020202.github.io/academic-kickstart/project/%E3%81%BB%E3%82%93%E3%81%82%E3%82%8B%E5%92%8C%E6%AD%8C%E5%B1%B1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

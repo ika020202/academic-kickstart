@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MKairi Portfolio Site</title>
-    <link>https://ika020202.github.io/academic-kickstart/</link>
-      <atom:link href="https://ika020202.github.io/academic-kickstart/index.xml" rel="self" type="application/rss+xml" />
-    <description>MKairi Portfolio Site</description>
+    <title>Android | MKairi Portfolio Site</title>
+    <link>https://ika020202.github.io/academic-kickstart/tag/android/</link>
+      <atom:link href="https://ika020202.github.io/academic-kickstart/tag/android/index.xml" rel="self" type="application/rss+xml" />
+    <description>Android</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ika020202.github.io/academic-kickstart/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>MKairi Portfolio Site</title>
-      <link>https://ika020202.github.io/academic-kickstart/</link>
+      <title>Android</title>
+      <link>https://ika020202.github.io/academic-kickstart/tag/android/</link>
     </image>
     
     <item>
